@@ -6,7 +6,6 @@
 
 - **Fuzzy Hashing**: Compares binary files using fuzzy hashing (SSDEEP) to identify modified files.
 - **File Type Identification**: Supports analysis of ELF Executables and Kernel Modules.
-- **Progress Display**: Displays a progress bar during the comparison process.
 - **Detailed Output**: Outputs modified, added, and deleted files with detailed information.
 - **Debug Mode**: Provides verbose logging of the comparison process for troubleshooting.
 - **Output to File**: Option to save results to a specified output file.
