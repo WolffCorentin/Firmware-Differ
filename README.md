@@ -2,6 +2,9 @@
 
 `fwdiffer` is a command-line tool designed to compare two versions of firmware by analyzing their file contents. This tool leverages fuzzy hashing to detect modifications, added files, and removed files between two firmware images, making it a valuable asset for developers and security researchers working with embedded systems and firmware.
 
+### Responsible Laboratory
+- **Laboratory Manager**: [@qkaiser](https://github.com/qkaiser)
+
 ## Features
 
 - **Fuzzy Hashing**: Compares binary files using fuzzy hashing (SSDEEP) to identify modified files.
