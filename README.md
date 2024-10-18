@@ -36,5 +36,8 @@ To use `fwdiffer`, ensure you have the following dependencies installed:
    ```bash
    python fwdiffer.py --help
    ```
-   
+
+### Author
+- **Author**: [Corentin Wolff](https://github.com/WolffCorentin)
+
    
