@@ -15,14 +15,9 @@
 
 To use `fwdiffer`, ensure you have the following dependencies installed:
 
-- Python 3.x
-- Required Python packages:
-  - `ssdeep`
-  - `python-magic`
-  - `termcolor`
-  - `pyfiglet`
+### Installation with `requirements.txt`
 
-You can install the required Python packages using pip:
+1. Clone the repository:
 
 ```bash
-pip install ssdeep python-magic termcolor pyfiglet
+git clone https://github.com/WolffCorentin/fwdiffer.git
