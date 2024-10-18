@@ -1,0 +1,4 @@
+ssdeep
+python-magic
+termcolor
+pyfiglet
