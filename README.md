@@ -17,9 +17,24 @@
 
 To use `fwdiffer`, ensure you have the following dependencies installed:
 
-### Installation with `requirements.txt`
+### Installation with Python and `requirements.txt`
 
-1. Clone the repository:
+1. **Install Python**:
+   - Ensure you have Python 3.x installed on your system. You can download it from the official [Python website](https://www.python.org/downloads/).
 
-```bash
-git clone https://github.com/WolffCorentin/fwdiffer.git
+2. **Clone the repository**:
+   Open your terminal and run:
+   ```bash
+   git clone https://github.com/WolffCorentin/fwdiffer.git
+   ```
+   Navigate to the folder and install requirements
+   ```bash
+   cd fwdiffer
+   pip install -r requirements.txt
+   ```
+   Verify the installation with the help menu
+   ```bash
+   python fwdiffer.py --help
+   ```
+   
+   
